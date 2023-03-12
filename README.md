@@ -1,3 +1,6 @@
+# Online version
+[https://jgalasso.github.io/exploratorysearch-templates/](https://jgalasso.github.io/exploratorysearch-templates/)
+
 # structural-template-lattice
 
 This directory provides the necessary files to navigate the pattern concept lattice for the case study of code sophistication.
